@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            health hub 
+        </title>
+        <link rel="stylesheet" type="text/css" href="duedate.css">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+<script src="main.js"></script>
+
+    </head>
+    <body>
+        <center>
+            <h1>Choose your Vaccination type</h1><br>
+            <span>
+                <button class="btn btn-primary" id="covishield" onclick="cvs()">Covishield</button>
+                <button class="btn btn-info" id="Covaxin" onclick="cov()">Covaxin</button>
+                <button class="btn btn-warning" id="Sputnik V" onclick="sv()">Sputnik V</button>
+            </span>
+            <h1>Choose your Vaccination date 1st dose</h1>
+            <form>
+                <label for="birthday">Name:</label>
+                <input type="date" id="give id" name="givename">
+                <input type="submit" onclick="calculate()">
+              </form>
+              <div class="container" id="table"></div>
+        </center>
+    </body>

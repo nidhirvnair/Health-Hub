@@ -1,0 +1,25 @@
+#lll{
+    background-color:cornflowerblue;
+}
+#hi{
+    font-family: papyrus ,fantasy;
+    font-size: 50px; 
+}
+#noneb,#feverb,#sob,#tire,#DC,#st,#hov,#ha,#DcF,#rn,#losat,#mp,#r,#re,#dihoea{
+    height: 30px;
+    width: 300px;
+}
+#Yes,#No{
+    height: 30px;
+    width: 100px;
+}
+#button12,#Waiting,#Positive,#Negative{
+    height: 30px;
+    width: 200px;
+}
+#ldiv{
+    position: absolute;
+    right: 50px;
+    font-family: papyrus ,fantasy;
+    font-size: 50px;
+}

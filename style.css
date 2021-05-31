@@ -1,0 +1,59 @@
+#img1{
+    height:200px;
+    width: 200px;
+}
+#img2{
+    height:200px;
+    width: 200px;
+}
+#img3{
+    height:200px;
+    width: 200px;
+}
+#img4{
+    height:200px;
+    width: 200px;
+}
+
+#fdf{
+    background-color: chartreuse;
+}
+#immg{
+    height: 350px;
+    width: 350px;
+    position: absolute;
+    right: 550px;
+    bottom: 500px;
+}
+#symptom-check{
+    height: 30px;
+    width: 300px;
+}
+#cov-vac{
+    height: 30px;
+    width: 300px;
+}
+#snd-dose{
+    height: 30px;
+    width: 300px;
+}
+#cov-test{
+    height: 30px;
+    width: 300px;
+}
+#video-call{
+    height: 30px;
+    width: 300px;
+}
+#fhf{
+    font-family: papyrus ,fantasy;
+    font-size: 50px;
+}
+#sign-in{
+    position: absolute;
+    right: 0px;
+}
+#sign-up{
+    position: absolute;
+    right: 65px;
+}
